@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Realm Test</string>
+    <string name="phone_num">رقم الهاتف</string>
+    <string name="user_name">أسم المستخدم</string>
+    <string name="register">تسجيل</string>
+    <string name="create_account_now">انشأ حساب الأن</string>
+    <string-array name="region">
+        <item> مصر </item>
+        <item> السعودية </item>
+        <item> امريكا </item>
+    </string-array>
+</resources>

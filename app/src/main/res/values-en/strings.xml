@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Realm Test</string>
+    <string name="phone_num">Phone Number</string>
+    <string name="user_name">User name</string>
+    <string name="register">Sign up</string>
+    <string name="create_account_now">Sign up NOW!</string>
+    <string-array name="region">
+        <item> EG </item>
+        <item> ARU </item>
+        <item> USA </item>
+    </string-array>
+</resources>
