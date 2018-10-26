@@ -4,6 +4,9 @@
     <string name="user_name">أسم المستخدم</string>
     <string name="register">تسجيل</string>
     <string name="create_account_now">انشأ حساب الأن</string>
+    <string name="approve_code"> تأكيد رمز التسجيل </string>
+    <string name="enter_code"> الرمز التأكيدى </string>
+    <string name="continu"> متابعة </string>
     <string-array name="region">
         <item> مصر </item>
         <item> السعودية </item>
