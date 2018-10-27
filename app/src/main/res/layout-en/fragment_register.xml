@@ -93,6 +93,7 @@
             android:paddingEnd="40dp"
             android:fontFamily="@font/myriadpro_light"
             android:textStyle="bold"
+            android:id="@+id/signup"
             android:background="@drawable/background_button"
             android:textColor="@color/white"
             android:textAllCaps="false"/>

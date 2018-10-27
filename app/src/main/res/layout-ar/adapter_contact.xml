@@ -31,9 +31,9 @@
                 android:layout_gravity="top"
                 android:gravity="center_horizontal"
                 android:paddingTop="10dp"
-                android:text="yesterday"
+                android:text="امس"
                 android:id="@+id/date_time"
-                android:textDirection="ltr"/>
+                android:textDirection="rtl"/>
         </LinearLayout>
 
         <LinearLayout
@@ -49,7 +49,7 @@
                 android:gravity="end"
                 android:id="@+id/contact_name"
                 android:text="مؤمن شاهين"
-                android:textDirection="ltr"/>
+                android:textDirection="rtl"/>
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -71,7 +71,7 @@
                     android:layout_gravity="center"
                     android:padding="5dp"
                     android:id="@+id/message_icon_state"
-                    android:src="@drawable/sent" />
+                    android:src="@drawable/sent_ar" />
             </LinearLayout>
 
         </LinearLayout>

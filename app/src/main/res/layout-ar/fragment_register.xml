@@ -95,6 +95,7 @@
             android:textColor="@color/white"
             android:background="@drawable/background_button"
             android:paddingEnd="40dp"
+            android:id="@+id/signup"
             android:fontFamily="@font/gess_dinarone_light"
             android:textStyle="bold"
             android:textAllCaps="false"/>

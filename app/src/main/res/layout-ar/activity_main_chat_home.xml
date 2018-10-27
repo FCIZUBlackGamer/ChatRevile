@@ -35,17 +35,17 @@
         <android.support.design.widget.TabItem
             android:id="@+id/tab1"
             style="@style/tab_item"
-            android:icon="@drawable/logo"/>
+            android:icon="@drawable/group"/>
 
         <android.support.design.widget.TabItem
             android:id="@+id/tab2"
             style="@style/tab_item"
-            android:icon="@drawable/logo" />
+            android:icon="@drawable/chat" />
 
         <android.support.design.widget.TabItem
             android:id="@+id/tab3"
             style="@style/tab_item"
-            android:icon="@drawable/logo" />
+            android:icon="@drawable/users_group" />
 
     </android.support.design.widget.TabLayout>
 

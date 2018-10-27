@@ -107,11 +107,11 @@ public class MainChatHome extends AppCompatActivity {
         public Fragment getItem(int position) {
             Fragment fragment = null;
             if (position == 0) {
-                fragment = new FragmentContacts();
+                fragment = new FragmentContacts().setTitle(0);
             } else if (position == 1) {
-                fragment = new FragmentContacts();
+                fragment = new FragmentContacts().setTitle(1);
             } else if (position == 2) {
-                fragment = new FragmentContacts();
+                fragment = new FragmentContacts().setTitle(2);
             }
             return fragment;
         }
@@ -120,5 +120,8 @@ public class MainChatHome extends AppCompatActivity {
         public int getCount() {
             return 3;
         }
+    }
+    public void setActionBarTitle(String title) {
+        getSupportActionBar().setTitle(title);
     }
 }
