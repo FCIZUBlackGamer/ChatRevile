@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#9a9e9b</color>
+    <color name="colorAccent">#405063</color>
+    <color name="white">#fff</color>
     <color name="blue">#1f6883</color>
     <color name="slected_tab">#0097e6</color>
+    <color name="input_message">#374659</color>
 </resources>

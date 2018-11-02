@@ -7,6 +7,7 @@
     <string name="approve_code"> Approve Code! </string>
     <string name="enter_code"> Code </string>
     <string name="continu"> Continue </string>
+    <string name="write_message_here"> Type a message </string>
     <string-array name="region">
         <item> EG </item>
         <item> ARU </item>

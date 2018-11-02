@@ -7,6 +7,7 @@
     <string name="approve_code"> تأكيد رمز التسجيل </string>
     <string name="enter_code"> الرمز التأكيدى </string>
     <string name="continu"> متابعة </string>
+    <string name="write_message_here"> أكتب رسالتك هنا … </string>
     <string-array name="region">
         <item> مصر </item>
         <item> السعودية </item>
